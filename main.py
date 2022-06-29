@@ -1,4 +1,3 @@
-from unittest.main import main
 import uvicorn
 
 if __name__ == '__main__':

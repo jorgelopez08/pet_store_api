@@ -16,3 +16,6 @@
 5. Set the parameters
 6. Click "Execute"
 7. Check the response
+
+## Links
+https://github.com/OAI/OpenAPI-Specification/blob/main/examples/v3.0/petstore.yaml
